@@ -61,4 +61,9 @@ class stack{
         }
     }
 
+    bool isEmpty()
+    {
+        return top == NULL;
+    }
+
 };
